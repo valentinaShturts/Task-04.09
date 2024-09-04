@@ -9,6 +9,8 @@ void F3() {}
 
 void CreateArray() {}
 
+void PrintArray() {}
+
 int main()
 {
 
