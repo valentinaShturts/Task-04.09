@@ -7,6 +7,8 @@ void F2(){}
 
 void F3() {}
 
+void CreateArray() {}
+
 int main()
 {
 
