@@ -7,6 +7,10 @@ void F2(){}
 
 void F3() {}
 
+void CreateArray() {}
+
+void PrintArray() {}
+
 void Print() {}
 
 int main()
